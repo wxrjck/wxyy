@@ -1,0 +1,271 @@
+{
+  "classNameList": [
+    "华语歌手（男）",
+    "华语歌手（女）",
+    "组合",
+    "歌单",
+    "敬请期待"
+  ],
+  "VideoClassInfoList": {
+    "华语歌手（男）": [
+      {
+        "title": "周杰伦",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/25c409c43790cc13bf9ebc473b36c4f650527653.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 190,
+        "bvid": "BV1q4FTeBEMj"
+      },
+      {
+        "title": "林俊杰",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/b44b0b9fb60c107a2defca83994d79488fc8fc9a.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 148,
+        "bvid": "BV1Bk33zCEUJ"
+      },
+      {
+        "title": "许嵩",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/936aefabbdccca7a2ab5f7f1fadfcbfc3a5d8378.png@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 98,
+        "bvid": "BV1mDN8ztEeG"
+      },
+      {
+        "title": "薛之谦",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/a652899b3c7d2fcac9270b0fff77219dcce7154e.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 63,
+        "bvid": "BV1CRMUzEE6J"
+      },
+      {
+        "title": "周深",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/47ce830e1a9b9651f9434cb066428f822e0cb09e.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 68,
+        "bvid": "BV1VtK8zMEsJ"
+      },
+      {
+        "title": "汪苏泷",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/936aefabbdccca7a2ab5f7f1fadfcbfc3a5d8378.png@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 100,
+        "bvid": "BV1LNKFewEGo"
+      },
+      {
+        "title": "徐良",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/2b6c057133e9ffe0100197442b5aaa89da29375e.png@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 100,
+        "bvid": "BV1bH4y1k7y8"
+      },      
+      {
+        "title": "张杰",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/67bb57cf5ce40718c1f5a21d8e2bce8b6a608cc2.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 67,
+        "bvid": "BV1QaKazGExG"
+      },      
+      {
+        "title": "王力宏",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/028fc83d33ace480ca65846b7c5678f5fd56f610.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 72,
+        "bvid": "BV1wzjGzAENm"
+      },
+      {
+        "title": "毛不易",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/8ee5e7a0bcb8ad9f13785841b0abb1638dd67f85.png@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 100,
+        "bvid": "BV14jdpYdE9E"
+      },        
+      {
+        "title": "李荣浩",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/0e9c464d8e4057947dd3153e7e9c12c51ffad405.png@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 100,
+        "bvid": "BV19NwDebEvu"
+      }, 
+      {
+        "title": "鹿晗",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/d75db0d4044e71c273d9ba65c1756e5dcfc36018.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 38,
+        "bvid": "BV176JBzuE4p"
+      },    
+      {
+        "title": "周传雄",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/3dce4a7ac89fb677be49fa4f22182bfa12d3a7ce.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 32,
+        "bvid": "BV1SfR8YjEHv"
+      },   
+      {
+        "title": "李玉刚",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/f56794a860cfbb404c6145a0c987b9317363311b.png@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 46,
+        "bvid": "BV1mZ4y1Q7Na"
+      },  
+      {
+        "title": "赵雷",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/a73f52f5c90e4e7ba28dabe12b7de39cfe391245.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 47,
+        "bvid": "BV15dfLYoEUJ"
+      },                               
+      {
+        "title": "陈奕迅",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/830b6a4e88cac0eece4de24bef8dd61a8775e693.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 200,
+        "bvid": "BV1dMgUzqET6"
+      }
+    ],
+    "华语歌手（女）": [
+      {
+        "title": "王菲",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/fba3c67029e96af31305d551e3dab7497db9d414.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 64,
+        "bvid": "BV18HTCzkE2s"
+      },
+      {
+        "title": "梁静茹",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/4079522519d516c5156beec69e1ce8cab439df57.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 90,
+        "bvid": "BV1XLQoYSENS"
+      },            
+      {
+        "title": "邓紫棋",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/ef6963bbc8edbe46bb1834f96ea1e02e0c9f1b58.png@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 120,
+        "bvid": "BV1xN411x76o"
+      },      
+      {
+        "title": "孙燕姿",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/e19d3655cdea621819179d19da51ae9d124ced74.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 107,
+        "bvid": "BV1k4uKzhEk5"
+      },  
+      {
+        "title": "王心凌",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/b59ffff804ac252a0a9528537d97f123d95dbf29.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 71,
+        "bvid": "BV1aAR5YzEBk"
+      },  
+      {
+        "title": "张靓颖",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/7292a9f1d04ba5c23a9e616c304e1a6bb9a5216b.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 78,
+        "bvid": "BV1a8411G7to"
+      }, 
+      {
+        "title": "张韶涵",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/236c55beadb1fb32585598ef2ac128a4b15cd3ce.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 70,
+        "bvid": "BV17WKWeTE5J"                
+      }, 
+      {
+        "title": "张碧晨",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/9a596cf04ba14ef9a5bdd2b9eb97483575491c39.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 47,
+        "bvid": "BV1kqZzYPEFM"                
+      },
+      {
+        "title": "单依纯",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/6941a93196f355fc080fb8e31c36e1e1005338c8.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 43,
+        "bvid": "BV1pZXXYbENU"                
+      },
+      {
+        "title": "庄心妍",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/3d06312d36df8043ec4b695b79f44aa8f7ed4608.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 22,
+        "bvid": "BV1y5411x7Zf"                
+      },      
+      {
+        "title": "任然",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/94f7547e5fdef196f76963e94c3e97265bee5de9.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 107,
+        "bvid": "BV1zHdNYbEhu"                
+      },
+      {
+        "title": "程响",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/bf2b83a1acca9ab2b340c7ab897daffdb791c1fc.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 90,
+        "bvid": "BV1V4LGz7EZj"                
+      }
+    ],
+    "组合": [
+      {
+        "title": "凤凰传奇",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/1c3b6e5c5b2253f2c81fd281f9e242ae7ae8fca5.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 92,
+        "bvid": "BV1EMVNz8EAi"
+      },
+      {
+        "title": "五月天",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/e5c89e6e3646435d5964f72cc11e17deca807d54.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 88,
+        "bvid": "BV1mUArewEZm"                
+      },
+      {
+        "title": "BEYOND",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/de1395dd87e47cc9d21877113e4850ee375bc0aa.png@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 62,
+        "bvid": "BV13t411U7Uz"                
+      },
+      {
+        "title": "S.H.E",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/2c2ce7f50a9bd1a69a5878556071068074c079a4.png@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 111,
+        "bvid": "BV1tS421X7h7"                
+      }, 
+      {
+        "title": "F.I.R飞儿乐团",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/01a4d1ec1d51b2cb2ec08f2ae47a2f395f21f563.png@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 60,
+        "bvid": "BV1pZ4y1q77q"                
+      }, 
+      {
+        "title": "筷子兄弟",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/201c955956aea7ade6d35ea2908c3f5cd85f8d53.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 5,
+        "bvid": "BV1gi4y1x7WB"                
+      },   
+      {
+        "title": "TFboys",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/5315bc7c3a4b511f70f345c9d4542ff6e9721180.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 40,
+        "bvid": "BV1Sx411J7nz"                
+      },
+      {
+        "title": "牛奶咖啡",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/1a929bd4406a7879840b88226217c91acee84013.png@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 36,
+        "bvid": "BV1BV411A7D5"                
+      }
+    ],
+    "歌单": [
+      {
+        "title": "2018-2024网络热歌",
+        "picUrl": "https://i1.hdslb.com/bfs/archive/0fda5b7ee83375f49b66a50c9a7e0cc242ef0e2f.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 102,
+        "bvid": "BV1HAsWexEXT"
+      },
+      {
+        "title": "2018抖音热歌",
+        "picUrl": "https://i1.hdslb.com/bfs/archive/6305110d77b2b67a294dbcb526181aebbecfaaa1.png@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 118,
+        "bvid": "BV1K4421Q7gm"
+      }, 
+      {
+        "title": "华语经典",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/9da998c0dbcab741cf0f5fa9c0ece7653aa8d01d.png@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 99,
+        "bvid": "BV1HP98YcEQn"
+      },
+      {
+        "title": "QQ飞车经典GBM",
+        "picUrl": "https://i1.hdslb.com/bfs/archive/9ed4373784df5dde5e6b9666cb9060ffe7a12c22.png@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 57,
+        "bvid": "BV1jS4y1v7jK"
+      }, 
+      {
+        "title": "欧美歌曲",
+        "picUrl": "https://i1.hdslb.com/bfs/archive/9b7a937601caa48e29cb44339401a7e52f9effdd.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 353,
+        "bvid": "BV1us411X76M"
+      },                                    
+      {
+        "title": "无邪",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/68d5c243a6a045ff8d57f71ee907264eee09e3a7.jpg@375w_210h_1c_!web-video-rcmd-cover.webp",
+        "videoCount": 24,
+        "bvid": "BV1eG31zwE86"
+      }
+    ]
+  }
+}
